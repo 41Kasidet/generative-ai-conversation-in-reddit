@@ -3,7 +3,7 @@ Project นี้คือส่วนหนึ่งของวิชา Big D
 
 1. กษิดิ์เดช คำพุช (Project Manager\Data Generalist)
 2. ธนภูมิ สุวรรณ์ (Data Scientist)
-3. ธิดารักษ์ ใจจิตต์ (Data Scientist)
+3. ธิดารักษ์ ใจจิตต์ (Data Scientist\Data Analyst)
 4. ปัชกาณันห์ แจ้งสุข (Data Engineer\Data Analyst)
 5. อันดรา หะยีเจะมะ (Data Engineer\Data Scientist)
 
