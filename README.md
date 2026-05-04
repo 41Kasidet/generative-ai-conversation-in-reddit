@@ -3,11 +3,11 @@
 **Present date:** May 1, 2026 
 
 ## 1. Project Members
-* **Kasidit Khampuch** (6880017126, Project Manager\Data Generalist) 
-* **Tanapoom Suwan** (6880176226, Data Scientist) 
-* **Tidarak Jaijit** (6880197426, Data Scientist\Data Analyst) 
-* **Patchakanan Jangsuk** (6880244226, Data Engineer\Data Analyst) 
-* **Andra Hayeechema** (6880455326, Data Engineer\Data Scientist) 
+* **Kasidit Khampuch** (Project Manager\Data Generalist) 
+* **Tanapoom Suwan** (Data Scientist) 
+* **Tidarak Jaijit** (Data Scientist\Data Analyst) 
+* **Patchakanan Jangsuk** (Data Engineer\Data Analyst) 
+* **Andra Hayeechema** (Data Engineer\Data Scientist) 
 
 ## 2. Introduction & Problem Statement
 Generative AI is typically evaluated through quantitative metrics like usage and market share, but these fail to reflect actual user sentiment. The main challenge is that user perception on social media platforms is complex, unstructured, and often contradictory, making it difficult to analyze. This project focuses on leveraging Big Data processes to analyze large-scale text data from Reddit to deeply understand users' true attitudes towards various Generative AI tools.
